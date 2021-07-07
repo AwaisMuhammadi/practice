@@ -1,6 +1,4 @@
-# Demo
-
-hey
+# Learning Github
 
 
-##sub heading
+<b><i>This is a dumy repository. Using to test commands and for learning purpose</i></b>
